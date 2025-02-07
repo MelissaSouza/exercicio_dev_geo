@@ -1,0 +1,17 @@
+{
+  "name": "geo-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "parquetjs": "^0.11.2"
+  }
+}

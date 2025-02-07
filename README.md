@@ -1,3 +1,25 @@
+# Aplicação de Mapa Interativo - Melissa
+
+## Requisitos
+- Node.js instalado
+
+## Instalação e Execução
+
+1. Instale as dependências:
+npm install
+
+2. Inicie o servidor backend:
+
+cd backend
+node server.js
+
+3. Inicie o frontend:
+cd ../client
+npm run dev
+
+4. Para logar na aplicação use: admin / admin
+---------------------------------------------------------------------------------
+
 # Teste para Desenvolvedor Fullstack - Kognita
 
 ## Informações gerais
